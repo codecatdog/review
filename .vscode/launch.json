@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\2021-9-21\\fun.js"
+            "program": "${file}"  //${file}当前打开的文件
         }
     ]
 }
